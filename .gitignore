@@ -26,6 +26,9 @@
 # DS_Store
 *.DS_Store
 
+# .zip
+*.zip
+
 # Visual Studio cache directory
 .vs/
 
